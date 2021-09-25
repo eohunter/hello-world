@@ -8,3 +8,7 @@
  Testing .md in practice
  
  Examples: **bold text** and *italic text*
+ 
+ I'm learning **Markdown language** on the Curso em Vídeo Git and GitHub (test with *) 
+ 
+ I'm learning __Markdown language__ on the Curso em Vídeo Git and GitHub (test with _)
