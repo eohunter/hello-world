@@ -4,3 +4,7 @@
  Repository created in class.
  
  Adding text directly from GitHub. Amazing!
+ 
+ Testing .md in practice
+ 
+ Examples: **bold text** and *italic text*
