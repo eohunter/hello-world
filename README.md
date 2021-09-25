@@ -42,3 +42,11 @@ Marked list:
 * Test
    * Test
 * Test 
+
+
+To-do list
+
+- [x] Learn Git
+- [ ] Learn GitHub
+- [ ] Learn HTML, PHP and CSS
+- [ ] Learn Java Script 
